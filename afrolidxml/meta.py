@@ -1,0 +1,7 @@
+author = "Mike Cantelon"
+copyright_description = "Copyright 2032, Artefactual Systems"
+license_description = "GPL"
+version = "0.0.1"
+email = "mike@artefactual.com"
+status = "Production"
+description = "AfroLID XML tool"

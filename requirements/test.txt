@@ -1,0 +1,2 @@
+pytest==7.4.3
+xsd_validator==0.0.3

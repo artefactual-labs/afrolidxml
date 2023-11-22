@@ -1,0 +1,3 @@
+afrolid==0.1.0
+click==8.1.7
+xmltodict==0.13.0
